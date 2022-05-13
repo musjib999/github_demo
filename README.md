@@ -4,4 +4,4 @@
 
 ## Git commands
 
-![Optional Text](../screenshot/1.png)
+![First command](screenshot/1.png)
